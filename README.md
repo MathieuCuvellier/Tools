@@ -1,4 +1,4 @@
-# (c)2019 by Mathieu Cuvellier
-# info : mathieu.cuvellier@gmail.com
+# Author : mathieu.cuvellier@gmail.com
+# Learning since 1975
 # Tools
 Learnings, drafts, code snipets...
